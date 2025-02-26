@@ -388,7 +388,7 @@ function App() {
         <Grid container spacing={2}>
           {products?.map((val) => {
             return (
-              <Grid size={3}>
+              <Grid size={2}>
                 <Card sx={{ padding: "15px" }}>
                   <div
                     style={{
